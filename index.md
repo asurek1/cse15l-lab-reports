@@ -4,6 +4,9 @@
 
 Hello world!
 **This text is bold**
+
+*This change was made in VSCode*
+
 *This text is in italics*
 > This is a blockquote
 
