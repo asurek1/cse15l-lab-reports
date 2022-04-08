@@ -17,7 +17,9 @@ Horizontal Rule:
 4. Two
 
 #### CSE15L Course Link
-[Link][https://canvas.ucsd.edu/courses/35489]
+[Link](https://canvas.ucsd.edu/courses/35489)
+
+![Image](https://commonmark.org/help/images/favicon.png)
 
 `inline code with backticks`
 
