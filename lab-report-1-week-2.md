@@ -1,4 +1,6 @@
-# How to log into a course-specific account on ieng6
+# Lab Report 1 - Week 2
+
+## How to log into a course-specific account on ieng6
 
 
 This blog will discuss how to be able to log into a course-specfic account on ieng6 and the steps you need to take in order to do so. 
