@@ -1,4 +1,2 @@
-
-
-![Image](TestSS.png)
+# Lab Report - Week 2
 
