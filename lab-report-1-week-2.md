@@ -1,4 +1,4 @@
-# Lab Report - Week 2
+# Lab Report 1 - Week 2
 
 ## How to log into a course-specific account on ieng6
 
