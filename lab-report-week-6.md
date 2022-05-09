@@ -28,7 +28,9 @@ Host CSE15L
 
 Now once I try to log into my ieng6 account, I no longer need to type such a long command. I can just use "ssh CSE15L" to log in.
 
+
 ![Image](LoggingInSSH.png)
+
 
 I can also use other commands and use "CSE15L" instead of typing out my whole username. Below I made a copy of TestFile.java to my account.
 
@@ -49,9 +51,11 @@ We had to make a new key on GitHub, which can be seen if we go to "Settings > SS
 And here is the public and private key on my ieng6 account:
 
 Public:
+
 ![Image](SSHKeyPub.png)
 
 Private:
+
 ![Image](SSHKeyPrivate.png)
 
 
