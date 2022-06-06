@@ -1,6 +1,5 @@
 # Lab Report 5 - Week 10
 During Lab 9, we ran multiple tests from the given test-files/ folder and ran them on our own implementation of MarkdownParse along with the given implementation from the lab. When comparing the two different outcomes using `vimdiff`, some tests got a different results than the other. In this report we'll go over some of the different outcomes, and try to come up with a way to fix the code so it prints out the right answer.
-(194, 496)
 
 ---
 ## Test #1
